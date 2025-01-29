@@ -70,3 +70,6 @@ python kdd99_classification.py
 - Karışıklık matrisi
 
 - Eğitim ve test veri setinin sınıf dağılımı
+
+## 📄 Lisans
+Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına göz atabilirsiniz.
