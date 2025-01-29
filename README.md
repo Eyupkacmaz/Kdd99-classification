@@ -72,4 +72,7 @@ python kdd99_classification.py
 - Eğitim ve test veri setinin sınıf dağılımı
 
 ## 📄 Lisans
-Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına göz atabilirsiniz.
+
+Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır. Lisansın tam metni için `LICENSE` dosyasına göz atabilirsiniz.
+
+**Telif Hakkı © 2025 Eyüp Sina Kaçmaz**
