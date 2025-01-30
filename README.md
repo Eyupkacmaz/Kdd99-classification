@@ -71,6 +71,25 @@ python kdd99_classification.py
 
 - Eğitim ve test veri setinin sınıf dağılımı
 
+## 📊 Çıktılar
+
+Proje çalıştırıldığında elde edilen bazı örnek çıktılar aşağıda verilmiştir:
+
+### **1. Sınıf Dağılımı**
+Eğitim ve test setindeki sınıf dağılımı:
+
+![Sınıf Dağılımı](outputs/class_distribution.png)
+
+### **2. Model Performans Metrikleri**
+Makine öğrenimi modellerinin performans sonuçları:
+
+![Model Performansları](outputs/model_metrics.png)
+
+### **3. Karışıklık Matrisi**
+Random Forest modeli için karışıklık matrisi:
+
+![Karışıklık Matrisi](outputs/confusion_matrix.png)
+
 ## 📄 Lisans
 
 Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır. Lisansın tam metni için `LICENSE` dosyasına göz atabilirsiniz.
